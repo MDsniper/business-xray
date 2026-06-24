@@ -178,4 +178,265 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="Bow-Tie Funnel" id="page-2">
+    <mxGraphModel dx="1260" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- TITLE -->
+        <mxCell id="bt-title" value="BOW-TIE FUNNEL: BENNIE WILLIAMS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="200" y="15" width="800" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-subtitle" value="Customer Journey: YouTube Discovery → AI Coaching / Web Dev Results" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="800" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- PHASE LABELS -->
+        <mxCell id="bt-acq-label" value="ACQUISITION" style="text;html=1;strokeColor=#1565c0;fillColor=#e3f2fd;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#1565c0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="400" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-commit-label" value="COMMIT" style="text;html=1;strokeColor=#e65100;fillColor=#fff3e0;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#e65100;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="200" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-delivery-label" value="DELIVERY" style="text;html=1;strokeColor=#2e7d32;fillColor=#e8f5e9;align=center;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#2e7d32;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="410" height="28" as="geometry"/>
+        </mxCell>
+
+        <!-- STAGE HEADERS -->
+        <mxCell id="bt-stage1" value="AWARENESS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="80" y="116" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-stage2" value="NURTURING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="220" y="116" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-stage3" value="CONSIDERATION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="360" y="116" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-stage4" value="CONVERSION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#e65100;" vertex="1" parent="1">
+          <mxGeometry x="540" y="116" width="120" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-stage5" value="ONBOARDING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="720" y="116" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-stage6" value="LAUNCH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="860" y="116" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-stage7" value="RESULTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="116" width="130" height="18" as="geometry"/>
+        </mxCell>
+
+        <!-- COMMIT HIGHLIGHT BOX -->
+        <mxCell id="bt-cv-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#e65100;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="533" y="140" width="134" height="170" as="geometry"/>
+        </mxCell>
+
+        <!-- AWARENESS ACTIVITIES -->
+        <mxCell id="bt-aw-1" value="YouTube Videos&#xa;(AI Education)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="142" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-aw-2" value="LinkedIn Posts&#xa;(Thought Leadership)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-aw-3" value="Referrals&#xa;(Network / Word of Mouth)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="80" y="238" width="130" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- NURTURING ACTIVITIES -->
+        <mxCell id="bt-nu-1" value="Free Guides + Checklists&#xa;(AI Resources)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="220" y="142" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-nu-2" value="benniewilliams.com&#xa;(Homepage Browse)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontColor=#333333;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-nu-3" value="Email Newsletter&#xa;(Planned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9370DB;strokeColor=#7B68EE;fontColor=#ffffff;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="238" width="130" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- CONSIDERATION ACTIVITIES -->
+        <mxCell id="bt-co-1" value="View Services Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="360" y="142" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-co-2" value="Read Testimonials&#xa;(Social Proof)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-co-3" value="Book Free&#xa;15-Min Consult" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="238" width="130" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- CONVERSION / COMMIT ACTIVITIES -->
+        <mxCell id="bt-cv-1" value="Free Consult Call&#xa;(Qualify + Pitch)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD166;strokeColor=#f4a261;fontColor=#1a1a2e;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="150" width="114" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-cv-2" value="Choose Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD166;strokeColor=#f4a261;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="543" y="198" width="114" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-cv-3" value="BOOK &amp; PAY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="243" width="114" height="35" as="geometry"/>
+        </mxCell>
+
+        <!-- ONBOARDING ACTIVITIES -->
+        <mxCell id="bt-on-1" value="Booking Confirmed&#xa;(Email / Calendar)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="142" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-on-2" value="Pre-Session Brief&#xa;(Goals + Context)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="190" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-on-3" value="Set Expectations&#xa;+ Outcomes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="238" width="130" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- LAUNCH ACTIVITIES -->
+        <mxCell id="bt-la-1" value="AI Session Delivered&#xa;(Kickstart / Deep Dive)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="860" y="142" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-la-2" value="Website / Agent&#xa;Setup Complete" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="860" y="190" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-la-3" value="First Win /&#xa;Aha Moment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b2f2bb;strokeColor=#2f9e44;fontColor=#1a1a2e;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="238" width="130" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- RESULTS ACTIVITIES -->
+        <mxCell id="bt-re-1" value="AI Running in Business&#xa;(Time / Cost Savings)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b2f2bb;strokeColor=#2f9e44;fontColor=#1a1a2e;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="142" width="130" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-re-2" value="Website Live&#xa;(Online Presence)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b2f2bb;strokeColor=#2f9e44;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="197" width="130" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-re-3" value="Referral + Testimonial&#xa;→ Loop Back" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b2f2bb;strokeColor=#2f9e44;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="245" width="130" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- STAGE-TO-STAGE ARROWS (horizontal flow) -->
+        <mxCell id="bt-arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#666666;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="bt-aw-1" target="bt-nu-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#666666;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="bt-nu-2" target="bt-co-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-arrow3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#e65100;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="bt-co-3" target="bt-cv-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#2e7d32;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="bt-cv-3" target="bt-on-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-arrow5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#2e7d32;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="bt-on-2" target="bt-la-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-arrow6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#2e7d32;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="bt-la-3" target="bt-re-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- FEEDBACK LOOP -->
+        <mxCell id="bt-loop" value="" style="curved=1;endArrow=classic;html=1;strokeColor=#2f9e44;strokeWidth=2;dashed=1;exitX=0.5;exitY=1;entryX=0.5;entryY=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1065" y="283" as="sourcePoint"/>
+            <mxPoint x="145" y="283" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1065" y="360"/>
+              <mxPoint x="145" y="360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt-loop-label" value="Referrals feed back to Awareness" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#2f9e44;" vertex="1" parent="1">
+          <mxGeometry x="450" y="362" width="210" height="18" as="geometry"/>
+        </mxCell>
+
+        <!-- KEY METRICS -->
+        <mxCell id="bt-metrics-header" value="KEY METRICS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="1050" height="28" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bt-metric-1" value="Impressions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="432" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-metric-2" value="Subscribers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="220" y="432" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-metric-3" value="Engagement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="432" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-metric-4" value="Conv. Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="543" y="432" width="114" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-metric-5" value="Activation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="720" y="432" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-metric-6" value="Time to Value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="860" y="432" width="130" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-metric-7" value="Referrals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=9;fontStyle=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="432" width="130" height="18" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bt-badge-1" value="Increase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40c057;strokeColor=#2f9e44;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-badge-2" value="Increase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40c057;strokeColor=#2f9e44;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-badge-3" value="Increase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40c057;strokeColor=#2f9e44;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-badge-4" value="Increase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40c057;strokeColor=#2f9e44;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-badge-5" value="Increase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40c057;strokeColor=#2f9e44;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-badge-6" value="Reduce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa5252;strokeColor=#e03131;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-badge-7" value="Increase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40c057;strokeColor=#2f9e44;fontColor=#ffffff;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="454" width="100" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- LEGEND -->
+        <mxCell id="bt-legend-box" value="" style="rounded=1;fillColor=#f5f5f5;strokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="80" y="492" width="700" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-legend-title" value="LEGEND:" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="90" y="502" width="55" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-active" value="" style="rounded=1;fillColor=#90EE90;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="148" y="506" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-active-l" value="Active" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="165" y="501" width="38" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-dec" value="" style="rounded=1;fillColor=#FFD166;strokeColor=#f4a261;" vertex="1" parent="1">
+          <mxGeometry x="210" y="506" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-dec-l" value="Decision" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="227" y="501" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-conv" value="" style="rounded=1;fillColor=#4DA6FF;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="283" y="506" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-conv-l" value="Conversion" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="300" y="501" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-del" value="" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="365" y="506" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-del-l" value="Delivery" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="382" y="501" width="48" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-res" value="" style="rounded=1;fillColor=#b2f2bb;strokeColor=#2f9e44;" vertex="1" parent="1">
+          <mxGeometry x="436" y="506" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-res-l" value="Results" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="453" y="501" width="44" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-plan" value="" style="rounded=1;fillColor=#9370DB;strokeColor=#7B68EE;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="506" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="bt-leg-plan-l" value="Planned" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="501" width="48" height="20" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>

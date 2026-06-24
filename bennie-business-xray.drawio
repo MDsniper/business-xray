@@ -439,4 +439,551 @@
       </root>
     </mxGraphModel>
   </diagram>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- PAGE 3: CONTENT CREATION → LEAD GEN                   -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <diagram id="p3-content" name="Content Creation">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Title -->
+        <mxCell id="p3-title" value="CONTENT CREATION → LEAD GEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="18" width="1370" height="32" as="geometry"/>
+        </mxCell>
+
+        <!-- Phase Headers -->
+        <mxCell id="p3-ph1" value="① PLAN" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;fontSize=9;fontStyle=1;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="125" y="58" width="321" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-ph2" value="② SCRIPT" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontSize=9;fontStyle=1;fontColor=#7a4100;" vertex="1" parent="1">
+          <mxGeometry x="446" y="58" width="322" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-ph3" value="③ RECORD &amp; EDIT" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontSize=9;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="768" y="58" width="321" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-ph4" value="④ PUBLISH" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontSize=9;fontStyle=1;fontColor=#1a4a1a;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="58" width="321" height="24" as="geometry"/>
+        </mxCell>
+
+        <!-- Pool Border -->
+        <mxCell id="p3-pool" value="" style="rounded=0;fillColor=none;strokeColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="86" width="1370" height="334" as="geometry"/>
+        </mxCell>
+
+        <!-- Lane Labels -->
+        <mxCell id="p3-lbl-own" value="Owner&#xa;(Bennie)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="86" width="82" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-lbl-ai" value="AI Tools" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="198" width="82" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-lbl-out" value="Output" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="82" height="110" as="geometry"/>
+        </mxCell>
+
+        <!-- Lane Backgrounds -->
+        <mxCell id="p3-bg-own" value="" style="rounded=0;fillColor=#f0f6ff;strokeColor=#6c8ebf;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="86" width="1285" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-bg-ai" value="" style="rounded=0;fillColor=#fffaf0;strokeColor=#d79b00;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="198" width="1285" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-bg-out" value="" style="rounded=0;fillColor=#f5fff5;strokeColor=#82b366;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="1285" height="110" as="geometry"/>
+        </mxCell>
+
+        <!-- Phase Dividers -->
+        <mxCell id="p3-div1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446" y="86" as="sourcePoint"/>
+            <mxPoint x="446" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-div2" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="768" y="86" as="sourcePoint"/>
+            <mxPoint x="768" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3-div3" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089" y="86" as="sourcePoint"/>
+            <mxPoint x="1089" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ═══ OWNER LANE ELEMENTS ═══ -->
+
+        <!-- e1: Choose Topic (HIGH VALUE) Phase 1, center x=285 -->
+        <mxCell id="p3-e1" value="&lt;b&gt;Choose Topic + Plan&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#27ae60'&gt;★ HIGH VALUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="215" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e2: Record Video (HIGH VALUE) Phase 3, center x=928 -->
+        <mxCell id="p3-e2" value="&lt;b&gt;Record Video&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#27ae60'&gt;★ HIGH VALUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="858" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e3: Review & Upload Phase 4, center x=1249 -->
+        <mxCell id="p3-e3" value="Review &amp; Upload&#xa;to YouTube" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ AI LANE ELEMENTS ═══ -->
+
+        <!-- e4: Research + Script (AUTOMATE) Phase 2, center x=607 -->
+        <mxCell id="p3-e4" value="&lt;b&gt;Research + Write Script&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE (Claude)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="537" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e5: Edit + SEO (AUTOMATE) Phase 3, center x=928 — same column as e2 -->
+        <mxCell id="p3-e5" value="&lt;b&gt;Edit + SEO + Thumbnail&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE (AI tools)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="858" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ OUTPUT LANE ELEMENTS ═══ -->
+
+        <!-- e6: YouTube + LinkedIn Live Phase 4, center x=1249 -->
+        <mxCell id="p3-e6" value="YouTube + LinkedIn Live" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f0ff;strokeColor=#9370DB;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="318" width="140" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- e7: Book Consult (HIGH VALUE / MONEY EVENT) Phase 4 -->
+        <mxCell id="p3-e7" value="&lt;b&gt;Viewer Books Consult&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#27ae60'&gt;★ MONEY EVENT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="360" width="140" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ ARROWS ═══ -->
+
+        <!-- Arrow 1: Choose Topic → Research+Script (right → down) -->
+        <mxCell id="p3-a1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" source="p3-e1" target="p3-e4" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow 2: Research+Script → Record Video (up over pool top, y=52) -->
+        <mxCell id="p3-a2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p3-e4" target="p3-e2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="52"/>
+              <mxPoint x="928" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Arrow 3: Record Video → Edit+SEO (straight down, same x=928) -->
+        <mxCell id="p3-a3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p3-e2" target="p3-e5" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow 4: Edit+SEO → Review & Upload (right → up into bottom of e3) -->
+        <mxCell id="p3-a4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;" edge="1" source="p3-e5" target="p3-e3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1249" y="252"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Arrow 5: Review & Upload → YouTube Live (straight down, same x=1249) -->
+        <mxCell id="p3-a5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#9370DB;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p3-e3" target="p3-e6" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow 6: YouTube Live → Book Consult (straight down) -->
+        <mxCell id="p3-a6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#27ae60;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p3-e6" target="p3-e7" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Opportunity Note -->
+        <mxCell id="p3-note" value="🎯 Content Calendar: Plan 4 videos/month targeting AI questions small biz owners Google. Batch-record monthly." style="shape=callout;whiteSpace=wrap;html=1;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="125" y="432" width="460" height="36" as="geometry"/>
+        </mxCell>
+
+        <!-- Legend -->
+        <mxCell id="p3-leg-t" value="Legend:" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="434" width="55" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-leg-hv" value="" style="rounded=1;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="677" y="438" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-leg-hvl" value="★ High Value" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="694" y="434" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-leg-au" value="" style="rounded=1;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="438" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-leg-aul" value="⚡ Automate w/ AI" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="807" y="434" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-leg-da" value="" style="rounded=1;fillColor=#f5f0ff;strokeColor=#9370DB;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="923" y="438" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3-leg-dal" value="Digital Asset" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="940" y="434" width="80" height="20" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- PAGE 4: SALES FLOW — Discovery Call to Close          -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <diagram id="p4-sales" name="Sales Flow">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Title -->
+        <mxCell id="p4-title" value="SALES FLOW — Free Consult to Close" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="18" width="1180" height="32" as="geometry"/>
+        </mxCell>
+
+        <!-- Phase Headers -->
+        <mxCell id="p4-ph1" value="① PRE-CALL" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;fontSize=9;fontStyle=1;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="125" y="58" width="274" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4-ph2" value="② CONSULT CALL" style="text;html=1;strokeColor=#27ae60;fillColor=#d5e8d4;align=center;fontSize=9;fontStyle=1;fontColor=#1a4a1a;" vertex="1" parent="1">
+          <mxGeometry x="399" y="58" width="274" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4-ph3" value="③ PROPOSE" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontSize=9;fontStyle=1;fontColor=#7a4100;" vertex="1" parent="1">
+          <mxGeometry x="673" y="58" width="274" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4-ph4" value="④ CLOSE" style="text;html=1;strokeColor=#9370DB;fillColor=#f5f0ff;align=center;fontSize=9;fontStyle=1;fontColor=#4a1a7a;" vertex="1" parent="1">
+          <mxGeometry x="947" y="58" width="273" height="24" as="geometry"/>
+        </mxCell>
+
+        <!-- Pool Border -->
+        <mxCell id="p4-pool" value="" style="rounded=0;fillColor=none;strokeColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="86" width="1180" height="224" as="geometry"/>
+        </mxCell>
+
+        <!-- Lane Labels -->
+        <mxCell id="p4-lbl-own" value="Owner&#xa;(Bennie)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="86" width="82" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4-lbl-ai" value="AI Tools" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="198" width="82" height="112" as="geometry"/>
+        </mxCell>
+
+        <!-- Lane Backgrounds -->
+        <mxCell id="p4-bg-own" value="" style="rounded=0;fillColor=#f0f6ff;strokeColor=#6c8ebf;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="86" width="1095" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4-bg-ai" value="" style="rounded=0;fillColor=#fffaf0;strokeColor=#d79b00;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="198" width="1095" height="112" as="geometry"/>
+        </mxCell>
+
+        <!-- Phase Dividers -->
+        <mxCell id="p4-div1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="86" as="sourcePoint"/>
+            <mxPoint x="399" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-div2" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="673" y="86" as="sourcePoint"/>
+            <mxPoint x="673" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4-div3" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="947" y="86" as="sourcePoint"/>
+            <mxPoint x="947" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ═══ OWNER ELEMENTS ═══ -->
+
+        <!-- e1: Qualify Lead (HIGH VALUE) center x=262 -->
+        <mxCell id="p4-e1" value="&lt;b&gt;Qualify Lead&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#27ae60'&gt;★ HIGH VALUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="192" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e2: Run 15-Min Consult (HIGH VALUE) center x=536 -->
+        <mxCell id="p4-e2" value="&lt;b&gt;Run 15-Min Free Consult&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#27ae60'&gt;★ HIGHEST VALUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="466" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e3: Review + Send Proposal center x=810 -->
+        <mxCell id="p4-e3" value="Review + Send&#xa;Service Proposal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e4: Confirm + Close (HIGH VALUE) center x=1083 -->
+        <mxCell id="p4-e4" value="&lt;b&gt;Confirm + Invoice&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#9370DB'&gt;💰 CLOSE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f0ff;strokeColor=#9370DB;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ AI ELEMENTS ═══ -->
+
+        <!-- e5: Research Lead (AUTOMATE) center x=262 -->
+        <mxCell id="p4-e5" value="&lt;b&gt;Research Lead (Claude)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="192" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e6: Capture Notes (AUTOMATE) center x=536 -->
+        <mxCell id="p4-e6" value="&lt;b&gt;Capture Notes (AI)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="466" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e7: Draft Proposal (AUTOMATE) center x=810 -->
+        <mxCell id="p4-e7" value="&lt;b&gt;Draft Proposal (Claude)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e8: Draft Invoice (AUTOMATE) center x=1083 -->
+        <mxCell id="p4-e8" value="&lt;b&gt;Draft Invoice (AI)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ ARROWS (zigzag S-pattern) ═══ -->
+
+        <!-- e1 → e5 (down) -->
+        <mxCell id="p4-a1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e1" target="p4-e5" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- e5 → e2 (up-right via y=52) -->
+        <mxCell id="p4-a2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e5" target="p4-e2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="52"/>
+              <mxPoint x="536" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- e2 → e6 (down) -->
+        <mxCell id="p4-a3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e2" target="p4-e6" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- e6 → e3 (up-right via y=52) -->
+        <mxCell id="p4-a4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e6" target="p4-e3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="52"/>
+              <mxPoint x="810" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- e3 → e7 (down) -->
+        <mxCell id="p4-a5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e3" target="p4-e7" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- e7 → e4 (up-right via y=52) -->
+        <mxCell id="p4-a6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e7" target="p4-e4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="52"/>
+              <mxPoint x="1083" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- e4 → e8 (down) -->
+        <mxCell id="p4-a7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#9370DB;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p4-e4" target="p4-e8" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Math Reality Warning -->
+        <mxCell id="p4-math" value="⚠️ Math Reality: At $300-$500/session → need 80-133 sessions/month for $40K MRR. Wife's HR packages + group coaching are the path to scale." style="shape=callout;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f8cecc;strokeColor=#b85450;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="125" y="326" width="660" height="36" as="geometry"/>
+        </mxCell>
+
+        <!-- Opportunity Note -->
+        <mxCell id="p4-opp" value="💡 AI does the prep: Claude researches leads + drafts proposals in minutes. You just review before sending." style="shape=callout;whiteSpace=wrap;html=1;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="800" y="326" width="420" height="36" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- PAGE 5: FULFILLMENT — Coaching Session Delivery       -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <diagram id="p5-fulfillment" name="Fulfillment">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Title -->
+        <mxCell id="p5-title" value="FULFILLMENT — Coaching Session Delivery" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="18" width="1180" height="32" as="geometry"/>
+        </mxCell>
+
+        <!-- Phase Headers -->
+        <mxCell id="p5-ph1" value="① PREP" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;fontSize=9;fontStyle=1;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="125" y="58" width="274" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p5-ph2" value="② DELIVER" style="text;html=1;strokeColor=#27ae60;fillColor=#d5e8d4;align=center;fontSize=9;fontStyle=1;fontColor=#1a4a1a;" vertex="1" parent="1">
+          <mxGeometry x="399" y="58" width="274" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p5-ph3" value="③ WRAP UP" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;fontSize=9;fontStyle=1;fontColor=#7a4100;" vertex="1" parent="1">
+          <mxGeometry x="673" y="58" width="274" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p5-ph4" value="④ RETAIN" style="text;html=1;strokeColor=#9370DB;fillColor=#f5f0ff;align=center;fontSize=9;fontStyle=1;fontColor=#4a1a7a;" vertex="1" parent="1">
+          <mxGeometry x="947" y="58" width="273" height="24" as="geometry"/>
+        </mxCell>
+
+        <!-- Pool Border -->
+        <mxCell id="p5-pool" value="" style="rounded=0;fillColor=none;strokeColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="86" width="1180" height="224" as="geometry"/>
+        </mxCell>
+
+        <!-- Lane Labels -->
+        <mxCell id="p5-lbl-own" value="Owner&#xa;(Bennie)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="86" width="82" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p5-lbl-ai" value="AI Tools" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="198" width="82" height="112" as="geometry"/>
+        </mxCell>
+
+        <!-- Lane Backgrounds -->
+        <mxCell id="p5-bg-own" value="" style="rounded=0;fillColor=#f0f6ff;strokeColor=#6c8ebf;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="86" width="1095" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="p5-bg-ai" value="" style="rounded=0;fillColor=#fffaf0;strokeColor=#d79b00;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="198" width="1095" height="112" as="geometry"/>
+        </mxCell>
+
+        <!-- Phase Dividers -->
+        <mxCell id="p5-div1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="86" as="sourcePoint"/>
+            <mxPoint x="399" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-div2" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="673" y="86" as="sourcePoint"/>
+            <mxPoint x="673" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5-div3" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#aaaaaa;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="947" y="86" as="sourcePoint"/>
+            <mxPoint x="947" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ═══ OWNER ELEMENTS ═══ -->
+
+        <!-- e1: Review Pre-Brief center x=262 -->
+        <mxCell id="p5-e1" value="Review Client Pre-Brief" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="192" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e2: Deliver Session (HIGH VALUE) center x=536 -->
+        <mxCell id="p5-e2" value="&lt;b&gt;Deliver Session&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#27ae60'&gt;★ HIGH VALUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f0fff0;strokeColor=#27ae60;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="466" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e3: Review + Approve Summary center x=810 -->
+        <mxCell id="p5-e3" value="Review + Send&#xa;Client Summary" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e4: Check-In + Upsell (HIGH VALUE) center x=1083 -->
+        <mxCell id="p5-e4" value="&lt;b&gt;Check-In + Upsell&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#9370DB'&gt;★ RETENTION&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f0ff;strokeColor=#9370DB;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="118" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ AI ELEMENTS ═══ -->
+
+        <!-- e5: Prep Resources center x=262 -->
+        <mxCell id="p5-e5" value="&lt;b&gt;Prep Resources (Claude)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="192" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e6: AI Note-Taking center x=536 -->
+        <mxCell id="p5-e6" value="&lt;b&gt;AI Note-Taking&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="466" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e7: Write Summary center x=810 -->
+        <mxCell id="p5-e7" value="&lt;b&gt;Write Summary (Claude)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- e8: Schedule + Follow-up center x=1083 -->
+        <mxCell id="p5-e8" value="&lt;b&gt;Schedule + Follow-Up (AI)&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;' color='#e67e22'&gt;⚡ AUTOMATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff8e6;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="228" width="140" height="48" as="geometry"/>
+        </mxCell>
+
+        <!-- ═══ ARROWS (same zigzag S-pattern as Sales) ═══ -->
+
+        <!-- e1 → e5 (down) -->
+        <mxCell id="p5-a1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e1" target="p5-e5" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- e5 → e2 (up-right via y=52) -->
+        <mxCell id="p5-a2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e5" target="p5-e2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="262" y="52"/>
+              <mxPoint x="536" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- e2 → e6 (down) -->
+        <mxCell id="p5-a3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e2" target="p5-e6" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- e6 → e3 (up-right via y=52) -->
+        <mxCell id="p5-a4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e6" target="p5-e3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="52"/>
+              <mxPoint x="810" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- e3 → e7 (down) -->
+        <mxCell id="p5-a5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e3" target="p5-e7" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- e7 → e4 (up-right via y=52) -->
+        <mxCell id="p5-a6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e7" target="p5-e4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="52"/>
+              <mxPoint x="1083" y="52"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- e4 → e8 (down) -->
+        <mxCell id="p5-a7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#9370DB;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="p5-e4" target="p5-e8" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Scale Opportunity Note -->
+        <mxCell id="p5-opp" value="💡 Scale Opportunity: Claude writes the post-session summary in 2 min vs 30 min manual → unlocks 20+ clients at same effort level. Also captures patterns for future content." style="shape=callout;whiteSpace=wrap;html=1;fontSize=8;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="125" y="326" width="700" height="36" as="geometry"/>
+        </mxCell>
+
+        <!-- Referral note -->
+        <mxCell id="p5-ref" value="🔄 Best leads come from referrals. Ask for testimonial after EVERY session." style="shape=callout;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="840" y="326" width="380" height="36" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>

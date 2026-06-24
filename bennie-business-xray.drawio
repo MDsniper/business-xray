@@ -986,4 +986,239 @@
       </root>
     </mxGraphModel>
   </diagram>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- PAGE 6: SYSTEM CONNECTION MAP                         -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <diagram id="p6-sysmap" name="System Map">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Page Title -->
+        <mxCell id="p6-title" value="SYSTEM CONNECTION MAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="16" width="1440" height="32" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CENTRAL HUB ════════ -->
+        <mxCell id="p6-hub" value="&lt;b style='font-size:13px;'&gt;BENNIE'S AI BUSINESS&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:9px;'&gt;AI Coaching · Web Build · Agent Setup&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;fontSize=11;align=center;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="260" height="100" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 1: TRAFFIC (top-center, green) ════════ -->
+        <mxCell id="p6-c1-bg" value="" style="rounded=1;fillColor=#f5fff5;strokeColor=#27ae60;strokeWidth=2;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="36" width="440" height="108" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c1-title" value="🎯  TRAFFIC / ORGANIC" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#1a6e1a;" vertex="1" parent="1">
+          <mxGeometry x="355" y="42" width="428" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c1-yt" value="&lt;b&gt;YouTube Channel&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;'&gt;Primary traffic engine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d5e8d4;strokeColor=#27ae60;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="64" width="190" height="68" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c1-li" value="&lt;b&gt;LinkedIn&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;'&gt;Secondary (caution: 9-5)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d5e8d4;strokeColor=#27ae60;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="64" width="190" height="68" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 2: OWNED WEBSITE (upper-left, blue) ════════ -->
+        <mxCell id="p6-c2-bg" value="" style="rounded=1;fillColor=#f0f4ff;strokeColor=#4DA6FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="250" height="126" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c2-title" value="🌐  OWNED WEBSITE" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#003399;" vertex="1" parent="1">
+          <mxGeometry x="55" y="106" width="238" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c2-site" value="&lt;b&gt;benniewilliams.com&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;'&gt;Portfolio + contact form&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#4DA6FF;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="128" width="228" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c2-vps" value="Hostinger VPS (2yr plan)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#4DA6FF;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="174" width="228" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 3: AI TOOLS (left, orange) ════════ -->
+        <mxCell id="p6-c3-bg" value="" style="rounded=1;fillColor=#fffaf0;strokeColor=#e67e22;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="250" height="172" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c3-title" value="⚡  AI TOOLS" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#7a4100;" vertex="1" parent="1">
+          <mxGeometry x="55" y="316" width="238" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c3-claude" value="&lt;b&gt;Claude AI&lt;/b&gt; — research, scripts, proposals" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#e67e22;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="338" width="228" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c3-cap" value="CapCut Auto / Descript — video editing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#e67e22;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="228" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c3-canva" value="Canva AI — thumbnails + graphics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#e67e22;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="422" width="228" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 4: EMAIL + LEADS (lower-left) ════════ -->
+        <mxCell id="p6-c4-bg" value="" style="rounded=1;fillColor=#fff5f5;strokeColor=#c0392b;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="548" width="250" height="116" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c4-title" value="⛔  EMAIL / LEAD CAPTURE  (GAP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#c0392b;" vertex="1" parent="1">
+          <mxGeometry x="55" y="554" width="238" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c4-gmail" value="Gmail — manual follow-up only" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="576" width="228" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c4-ck" value="Email List / ConvertKit — NOT SET UP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#c0392b;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="616" width="228" height="36" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 5: BOOKING + PAYMENT (bottom-center) ════════ -->
+        <mxCell id="p6-c5-bg" value="" style="rounded=1;fillColor=#fff5f5;strokeColor=#c0392b;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="524" width="440" height="116" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c5-title" value="⛔  BOOKING + PAYMENT  (GAP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#c0392b;" vertex="1" parent="1">
+          <mxGeometry x="375" y="530" width="428" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c5-cal" value="Calendly / Cal.com — NOT SET UP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#c0392b;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="378" y="552" width="200" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c5-stripe" value="Stripe / Square — NOT SET UP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#c0392b;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="588" y="552" width="200" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 6: DELIVERY (lower-right) ════════ -->
+        <mxCell id="p6-c6-bg" value="" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="380" width="250" height="126" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c6-title" value="📞  DELIVERY" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="386" width="238" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c6-zoom" value="Zoom / Google Meet — video sessions" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="408" width="228" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c6-crm" value="CRM / Notion — client tracker (NOT SET UP)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#c0392b;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="450" width="228" height="38" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 7: PRODUCTS (right, blue) ════════ -->
+        <mxCell id="p6-c7-bg" value="" style="rounded=1;fillColor=#f0f4ff;strokeColor=#4DA6FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="160" width="250" height="196" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c7-title" value="💼  CURRENT PRODUCTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#003399;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="166" width="238" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c7-coach" value="&lt;b&gt;AI Coaching Sessions&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;'&gt;$150-250/session&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#4DA6FF;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="188" width="228" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c7-web" value="&lt;b&gt;Website Build + Host&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;'&gt;$300-500 one-time + hosting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#4DA6FF;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="236" width="228" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c7-agent" value="&lt;b&gt;AI Agent Setup&lt;/b&gt;&lt;br/&gt;&lt;font style='font-size:7px;'&gt;General AI onboarding&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#4DA6FF;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="284" width="228" height="44" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CLUSTER 8: FUTURE PIPELINE (top-right, purple) ════════ -->
+        <mxCell id="p6-c8-bg" value="" style="rounded=1;fillColor=#f9f0ff;strokeColor=#9370DB;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="36" width="250" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c8-title" value="🚀  FUTURE PIPELINE" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=9;fontStyle=1;fontColor=#4a1a7a;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="42" width="238" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c8-hermes" value="Hermes AI Agent (productized)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f0ff;strokeColor=#9370DB;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="64" width="228" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-c8-hr" value="Wife's HR Niche Packages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f0ff;strokeColor=#9370DB;strokeWidth=2;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="104" width="228" height="36" as="geometry"/>
+        </mxCell>
+
+        <!-- ════════ CONNECTION LINES ════════ -->
+
+        <!-- Traffic → Hub (viewers become leads) -->
+        <mxCell id="p6-ln1" value="viewers" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#27ae60;endArrow=open;endFill=0;fontSize=8;fontColor=#27ae60;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="144" as="sourcePoint"/>
+            <mxPoint x="660" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Website → Hub (inquiries) -->
+        <mxCell id="p6-ln2" value="inquiries" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#4DA6FF;endArrow=open;endFill=0;fontSize=8;fontColor=#4DA6FF;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="182" as="sourcePoint"/>
+            <mxPoint x="570" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- AI Tools → Hub (leverage) -->
+        <mxCell id="p6-ln3" value="leverage" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#e67e22;endArrow=open;endFill=0;startArrow=open;startFill=0;fontSize=8;fontColor=#e67e22;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="396" as="sourcePoint"/>
+            <mxPoint x="570" y="350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Email/Leads → Hub (contacts) -->
+        <mxCell id="p6-ln4" value="contacts" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#c0392b;endArrow=open;endFill=0;fontSize=8;fontColor=#c0392b;fontStyle=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="600" as="sourcePoint"/>
+            <mxPoint x="620" y="370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Hub → Booking (scheduling) -->
+        <mxCell id="p6-ln5" value="schedule" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#c0392b;endArrow=open;endFill=0;fontSize=8;fontColor=#c0392b;fontStyle=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="370" as="sourcePoint"/>
+            <mxPoint x="700" y="524" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Hub ↔ Delivery (sessions) -->
+        <mxCell id="p6-ln6" value="sessions" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#555555;endArrow=open;endFill=0;startArrow=open;startFill=0;fontSize=8;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="345" as="sourcePoint"/>
+            <mxPoint x="1080" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Hub → Products (revenue) -->
+        <mxCell id="p6-ln7" value="revenue" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#4DA6FF;endArrow=open;endFill=0;startArrow=open;startFill=0;fontSize=8;fontColor=#4DA6FF;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="310" as="sourcePoint"/>
+            <mxPoint x="1080" y="258" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Hub → Future Pipeline (roadmap) -->
+        <mxCell id="p6-ln8" value="roadmap" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;strokeColor=#9370DB;endArrow=open;endFill=0;fontSize=8;fontColor=#9370DB;fontStyle=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="278" as="sourcePoint"/>
+            <mxPoint x="1080" y="95" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ════════ GAPS SUMMARY CALLOUT ════════ -->
+        <mxCell id="p6-gaps" value="&lt;b&gt;⛔ CRITICAL GAPS (fix these first):&lt;/b&gt;&lt;br/&gt;1. No email capture — losing every viewer who doesn&apos;t immediately book&lt;br/&gt;2. No booking system — friction kills conversions (add Calendly NOW)&lt;br/&gt;3. No payment processor — can&apos;t get paid easily&lt;br/&gt;4. No CRM — no way to track leads / follow up systematically" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f8cecc;strokeColor=#c0392b;strokeWidth=2;align=left;spacingLeft=8;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="700" height="98" as="geometry"/>
+        </mxCell>
+
+        <!-- Legend -->
+        <mxCell id="p6-leg-t" value="Legend:" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="698" width="55" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-leg-act" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#4DA6FF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="702" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-leg-actl" value="Active / Owned" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="124" y="698" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-leg-pl" value="" style="rounded=1;fillColor=#d5e8d4;strokeColor=#27ae60;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="702" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-leg-pll" value="Planned (dashed)" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="245" y="698" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-leg-gap" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#c0392b;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="702" width="14" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="p6-leg-gapl" value="⛔ Gap / Not Yet Set Up" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="377" y="698" width="140" height="20" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>

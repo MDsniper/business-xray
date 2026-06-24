@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Business Overview" id="page-1">
+    <mxGraphModel dx="1260" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- TITLE -->
+        <mxCell id="p1-title" value="BENNIE WILLIAMS — BUSINESS MAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="40" y="15" width="1260" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN HEADERS ======== -->
+        <mxCell id="p1-header-traffic" value="TRAFFIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-header-converters" value="CONVERTERS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-header-products" value="PRODUCTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-header-funnels" value="FUNNELS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-header-math" value="MATH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-header-team" value="TEAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="940" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-header-goals" value="GOALS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;fontColor=#ffffff;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="65" width="165" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 1: TRAFFIC ======== -->
+        <mxCell id="p1-label-primary" value="Primary" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="103" width="70" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-traffic-youtube" value="YouTube&#xa;(Organic)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="118" width="165" height="45" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="p1-label-secondary" value="Secondary" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="171" width="70" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-traffic-linkedin" value="LinkedIn (Organic)&#xa;Educational content only" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="186" width="165" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-traffic-referrals" value="Referrals&#xa;(Owned — Network)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="241" width="165" height="45" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 2: CONVERTERS ======== -->
+        <mxCell id="p1-conv-homepage" value="benniewilliams.com&#xa;Homepage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontColor=#333333;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="220" y="118" width="165" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-conv-resources" value="Free Resources Page&#xa;(Guides + Checklists)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontColor=#333333;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="220" y="186" width="165" height="45" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 3: PRODUCTS ======== -->
+        <mxCell id="p1-label-free" value="Free" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="103" width="40" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-free" value="AI Guides + Checklists&#xa;(Lead Magnets — Free)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="118" width="165" height="45" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="p1-label-paid" value="Paid" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="171" width="40" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-kickstart" value="AI Kickstart Session&#xa;$150 / 60 min" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="186" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-deepdive" value="AI Deep Dive Session&#xa;$250 / 90 min" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="236" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-agent" value="AI Agent Setup (General)&#xa;$200 one-time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="286" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-webstarter" value="Website Starter&#xa;$300–$500" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="336" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-webportfolio" value="Website Portfolio&#xa;$1,500–$2,500" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4DA6FF;strokeColor=#3399FF;fontColor=#ffffff;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="386" width="165" height="40" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="p1-label-planned" value="Planned" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="434" width="60" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-hermes" value="Hermes Setup Package&#xa;(Planned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D9FF;strokeColor=#4DA6FF;fontColor=#333333;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="449" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-prod-niche" value="Niche AI Agent Packages&#xa;(Planned — HR, Real Estate)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3D9FF;strokeColor=#4DA6FF;fontColor=#333333;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="499" width="165" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 4: FUNNELS ======== -->
+        <mxCell id="p1-funnel-consult" value="Free 15-min Consult&#xa;(In place — not yet active)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8BFD8;strokeColor=#9370DB;fontColor=#333333;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="118" width="165" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-funnel-youtube-cta" value="YouTube Video CTAs&#xa;→ Consult Booking (Planned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8BFD8;strokeColor=#9370DB;fontColor=#333333;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="186" width="165" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-funnel-agentpage" value="Dedicated Agent&#xa;Product Pages (Planned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8BFD8;strokeColor=#9370DB;fontColor=#333333;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="249" width="165" height="45" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 5: MATH ======== -->
+        <mxCell id="p1-math-rev-header" value="REVENUE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d6a4f;strokeColor=#1b4332;fontColor=#ffffff;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="105" width="165" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-math-rev-current" value="Current MRR: $0&#xa;(Pre-revenue)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#cccccc;fontColor=#555555;fontSize=9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="133" width="165" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-math-rev-target" value="🎯 Target MRR: $40,000&#xa;Replace both incomes → family biz" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="176" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-math-exp-header" value="EXPENSES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c62828;strokeColor=#b71c1c;fontColor=#ffffff;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="228" width="165" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-math-exp-detail" value="Hostinger VPS: ~$10–15/mo&#xa;(Annual renewal due)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#ffcdd2;fontColor=#333333;fontSize=9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="256" width="165" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 6: TEAM ======== -->
+        <mxCell id="p1-team-bennie" value="Bennie Williams&#xa;AI Coach + Web Dev&#xa;30+ yrs IT / Enterprise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="940" y="118" width="165" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-team-wife" value="Wife — HR Expert&#xa;Future Co-Founder&#xa;(Planned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#333333;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="193" width="165" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== COLUMN 7: GOALS (Performance Actions) ======== -->
+        <mxCell id="p1-goal-yt" value="Post YouTube 2–3x/week&#xa;(AI education content)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="118" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-goal-calls" value="Book 2 discovery calls/month&#xa;via free consult CTA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="168" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-goal-packages" value="Build productized Hermes&#xa;+ niche AI agent packages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="218" width="165" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-goal-revenue" value="$40K MRR&#xa;→ Quit 9-5 → Family Business" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#1a1a2e;fontSize=9;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="268" width="165" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- ======== LEGEND ======== -->
+        <mxCell id="p1-legend-bg" value="" style="rounded=1;fillColor=#f5f5f5;strokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="650" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-legend-title" value="LEGEND:" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="52" y="590" width="55" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-green" value="" style="rounded=1;fillColor=#90EE90;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="595" width="16" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-green-txt" value="Organic Traffic" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="591" width="95" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-blue" value="" style="rounded=1;fillColor=#4DA6FF;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="232" y="595" width="16" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-blue-txt" value="Owned Traffic / Products" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="252" y="591" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-purple" value="" style="rounded=1;fillColor=#9370DB;strokeColor=#7B68EE;" vertex="1" parent="1">
+          <mxGeometry x="390" y="595" width="16" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-purple-txt" value="Funnels" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="410" y="591" width="55" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="p1-leg-dashed-txt" value="Dashed border = Planned (not yet active)" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=9;fontColor=#888888;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="472" y="591" width="210" height="22" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
